@@ -240,4 +240,4 @@ This repository serves as the official landing page for Stepmania. The software 
 **Get the most recent version of Stepmania today!**
 
 ---
-**Last updated:** 2026-09-21 03:40:14 UTC
+**Last updated:** 2026-09-21 09:40:24 UTC
